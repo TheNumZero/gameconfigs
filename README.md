@@ -1,0 +1,2 @@
+# gameconfigs
+Shared game configs.
